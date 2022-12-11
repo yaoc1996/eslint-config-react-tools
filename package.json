@@ -1,0 +1,18 @@
+{
+  "name": "@yaoc1996/eslint-config-react-tools",
+  "version": "1.0.1",
+  "description": "eslint for @yaoc1996/react-tools",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yaocheng Wu",
+  "license": "ISC",
+  "dependencies": {
+    "eslint": "^8.0.0",
+    "eslint-plugin-react-hooks": "^4.3.0"
+  },
+  "files": [
+    "index.js"
+  ]
+}
